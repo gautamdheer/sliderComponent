@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="gradient2" x1="1" y1="0" x2="0" y2="1">
+			<stop offset="0%" stop-color="#22d3ee"/>
+			<stop offset="100%" stop-color="#3b82f6"/>
+		</linearGradient>
+	</defs>
+	<rect width="1200" height="800" fill="url(#gradient2)"/>
+	<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="72" fill="#0f172a">
+		Sample Slide 02
+	</text>
+</svg>
+

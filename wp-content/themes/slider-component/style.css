@@ -1,0 +1,39 @@
+/*
+Theme Name: Slider Component
+Theme URI: https://example.com/slider-component
+Author: GPT-5 Codex
+Description: Minimal theme providing an ACF-powered slider component.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 7.4
+Text Domain: slider-component
+*/
+
+/* Base styling */
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+	color: #111;
+	background: #f9f9f9;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.site-wrapper {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 3rem 1.5rem;
+	box-sizing: border-box;
+}
+
+.site-content {
+	width: 100%;
+	max-width: 1200px;
+}
+
